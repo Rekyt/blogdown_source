@@ -15,14 +15,11 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Certified Instructor for [The Carpentries](https://carpentries.org/), focusing on **R programming**, **Data Visualization**.
 
-I am a teaching instructor for the following courses at University X:
+I taught the following courses:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- Practicals in Descriptive Statistics (15 hours, sophomore, University of Montpellier)
+- Practical project in Functional Ecology (15 hours, sophomore, University of Montpellier)
+
+I also founded and organize regular workshops at the CEFE R User Group.
