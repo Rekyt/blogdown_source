@@ -1,4 +1,6 @@
 +++
+title = "ecolottery: Simulating and assessing community assembly with environmental filtering and neutral dynamics in R"
+date = 2017-10-17
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["François Munoz", "Matthias Grenié", "Pierre Denelle",
@@ -19,9 +21,6 @@ publication_types = ["2"]
 # Publication name and optional abbreviated version.
 publication = "Methods in Ecology and Evolution"
 publication_short = ""
-
-
-title = "ecolottery: Simulating and assessing community assembly with environmental filtering and neutral dynamics in R"
 
 # Abstract and optional shortened version.
 abstract = "1. We introduce the R package ecolottery dedicated to quick and efficient simulation of communities undergoing local neutral dynamics with environmentally filtered immigration from a reference species pool (spatially implicit model). The package includes an Approximate Bayesian Computation (ABC) tool to estimate the parameters of these processes. We present the rationale of the approach and show examples of simulations and ABC analysis. 2. The species in the reference pool differ in their abundances and trait values. Environmental filtering weights the probability of immigration success depending on trait values, while the descendants of established immigrants undergo neutral stochastic drift. The reference pool can be defined in a flexible way as representing, e.g. the composition of a broad biogeographical region, or available dispersers around local communities. The package provides a process-based alternative to the use of randomization-based null models. 3. The package proposes a coalescent-based simulation algorithm that presents significant advantages over alternative algorithms. It does not require simulating community dynamics from an initial state forward in time but does still allow measurement of the influence of environmental filtering. Because of its high calculation speed, this approach allows simulating many communities within a reasonable amount of time. 4. Diverse patterns of taxonomic, functional and phylogenetic compositions can be generated. The package can be used to explore the outcome of ecological and evolutionary processes playing at local and regional scales, and to estimate the parameters of these processes based on observed patterns."

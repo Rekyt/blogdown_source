@@ -33,12 +33,7 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
-
-[[filter]]
-  name = "Other"
-  tag = ".demo"
-
+  name = "Functional Rarity"
+  tag = ".functional-rarity"
 +++
 
