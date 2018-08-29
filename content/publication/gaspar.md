@@ -18,8 +18,8 @@ authors = ["Matthias Grenié", "David Mouillot", "Sébastien Villéger", "Pierre
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Functional rarity of coral reef fishes at the global scale: Hotspots and challenges for conservation"
-publication_short = ""
+publication = "Biological Conservation"
+publication_short = "Biol. Cons."
 
 # Abstract and optional shortened version.
 abstract = "Characterizing functional diversity has become central in ecological research and for biodiversity assessment. Understanding the role of species with rare traits, i.e. functionally rare species, in community assembly, ecosystem dynamics and functioning has recently gained momentum. However, functional rarity is still ignored in conservation strategies. Here, we quantified global functional and evolutionary rarity for 2073 species of coral reef fishes and compared the rarity values to IUCN Red List status. Most species were functionally common but geographically rare. However, we found very weak correlation between functional rarity and evolutionary rarity. Functional rarity was highest for species classified as not evaluated or threatened by the IUCN Red List. The location of functional rarity hotspots (Tropical Eastern Pacific) did not match hotspots of species richness and evolutionary distinctiveness (Indo-Australian Archipelago), nor the currently protected areas. We argue that functional rarity should be acknowledged for both species and site prioritization in conservation strategies."
