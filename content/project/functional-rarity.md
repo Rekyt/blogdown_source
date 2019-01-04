@@ -1,5 +1,5 @@
 +++
-title = "Functional Rarity: a new concept"
+title = "Functional Rarity: an additional biodiversity facet"
 date = 2018-07-01T17:30:39+02:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = ["biodiversity-facet", "functional-diversity", "rarity"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "What are the ecological and evolutionary mechanisms explaining functional rarity and functional originality?"
 
 # Optional image to display on homepage.
 image_preview = ""

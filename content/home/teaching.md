@@ -15,11 +15,11 @@ weight = 60
 
 +++
 
-Certified Instructor for [The Carpentries](https://carpentries.org/), focusing on **R programming**, **Data Visualization**.
+I am a certified Instructor for [The Carpentries](https://carpentries.org/), focusing on **R programming** (especially for ecology) and **Data Visualization**.
 
-I taught the following courses:
+I also taught the following courses at University:
 
-- Practicals in Descriptive Statistics (15 hours, sophomore, University of Montpellier)
+- Practicals in Descriptive Statistics for Ecology (3 * 15 hours, sophomore, University of Montpellier)
 - Practical project in Functional Ecology (15 hours, sophomore, University of Montpellier)
 
-I also founded and organize regular workshops at the CEFE R User Group.
+I also funded the R User Group of our lab. I organize regular meetups for the group.

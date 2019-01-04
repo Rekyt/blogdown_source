@@ -4,7 +4,7 @@ date = 2018-08-29T18:14:56+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Matthias Grenié", "David Mouillot", "Sébastien Villéger", "Pierre Denelle", "Caroline M. Tucker", "François Munoz", "Cyrille Violle"]
+authors = ["**Matthias Grenié**", "David Mouillot", "Sébastien Villéger", "Pierre Denelle", "Caroline M. Tucker", "François Munoz", "Cyrille Violle"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,11 @@ publication = "Biological Conservation"
 publication_short = "Biol. Cons."
 
 # Abstract and optional shortened version.
-abstract = "Characterizing functional diversity has become central in ecological research and for biodiversity assessment. Understanding the role of species with rare traits, i.e. functionally rare species, in community assembly, ecosystem dynamics and functioning has recently gained momentum. However, functional rarity is still ignored in conservation strategies. Here, we quantified global functional and evolutionary rarity for 2073 species of coral reef fishes and compared the rarity values to IUCN Red List status. Most species were functionally common but geographically rare. However, we found very weak correlation between functional rarity and evolutionary rarity. Functional rarity was highest for species classified as not evaluated or threatened by the IUCN Red List. The location of functional rarity hotspots (Tropical Eastern Pacific) did not match hotspots of species richness and evolutionary distinctiveness (Indo-Australian Archipelago), nor the currently protected areas. We argue that functional rarity should be acknowledged for both species and site prioritization in conservation strategies."
+abstract = """
+Characterizing functional diversity has become central in ecological research and for biodiversity assessment. Understanding the role of species with rare traits, i.e. functionally rare species, in community assembly, ecosystem dynamics and functioning has recently gained momentum. However, functional rarity is still ignored in conservation strategies.
+
+Here, we quantified global functional and evolutionary rarity for 2073 species of coral reef fishes and compared the rarity values to IUCN Red List status. Most species were functionally common but geographically rare. However, we found very weak correlation between functional rarity and evolutionary rarity. Functional rarity was highest for species classified as not evaluated or threatened by the IUCN Red List. The location of functional rarity hotspots (Tropical Eastern Pacific) did not match hotspots of species richness and evolutionary distinctiveness (Indo-Australian Archipelago), nor the currently protected areas. We argue that functional rarity should be acknowledged for both species and site prioritization in conservation strategies.
+"""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -36,7 +40,7 @@ selected = false
 #   Simply enter the filename of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning.md"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["functional-rarity.md"]
+projects = ["functional-rarity"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -52,7 +56,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "DOI: 10.1016/j.biocon.2018.08.011", url  = "https://doi.org/10.1016/j.biocon.2018.08.0111"}]
+url_custom = [{name = "DOI: 10.1016/j.biocon.2018.08.011", url  = "https://doi.org/10.1016/j.biocon.2018.08.011"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -63,7 +67,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "gaspar_map_top_ses.jpg"
+caption = "Map of top 10% functionally distinct species (extract)"
 
 +++
