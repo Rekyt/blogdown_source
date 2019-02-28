@@ -17,9 +17,10 @@ weight = 60
 
 I am a certified Instructor for [The Carpentries](https://carpentries.org/), focusing on **R programming** (especially for ecology) and **Data Visualization**.
 
-I also taught the following courses at University:
+I also taught the following courses at the University of Montpellier:
 
-- Practicals in Descriptive Statistics for Ecology (3 * 15 hours, sophomore, University of Montpellier)
-- Practical project in Functional Ecology (15 hours, sophomore, University of Montpellier)
+- HLMA314 Practicals in Descriptive Statistics for Ecology 2017-2018,
+- HLBE405 Practical project in Functional Ecology,
+- HLMA314 Practicals in Descriptive Statistics for Ecology 2018-2019.
 
-I also funded the R User Group of our lab. I organize regular meetups for the group.
+I also found the R User Group of our lab and organize regular meetups for the group.
