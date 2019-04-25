@@ -35,6 +35,4 @@ weight = 5
  
 +++
 
-# Biography
-
-WIP 
+Currently PhD Candidate at the University of Montpellier. Interested in Biogeography, Open Science and Reproduciblity.

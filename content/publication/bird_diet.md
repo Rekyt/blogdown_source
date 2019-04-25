@@ -50,6 +50,7 @@ url_project = ""
 url_slides = ""
 url_source = ""
 url_video = ""
+url_custom = [{name = "DOI:10.1111/geb.12910", url = "https://doi.org10.1111/geb.12910"}]
 
 [header]
   caption = "PCoA of birds diet scores (extract)"
