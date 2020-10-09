@@ -1,6 +1,6 @@
 +++
 title = "A Common Toolbox to Understand, Monitor or Manage Rarity? A Response to Carmona et al."
-date = 2017-12-26T13:06:56+01:00
+date = 2020-10-08T13:06:56+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
