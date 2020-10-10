@@ -1,5 +1,5 @@
 +++
-title = "A Common Toolbox to Understand, Monitor or Manage Rarity? A Response to Carmona et al."
+title = "Global distribution and conservation status of ecologically rare mammal and bird species"
 date = 2020-10-08T13:06:56+01:00
 draft = false
 
