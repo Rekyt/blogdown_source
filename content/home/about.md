@@ -14,14 +14,17 @@ weight = 5
     "Biogeography",
     "Computational Ecology",
     "Macroecology",
-    "R Programming"
+    "Functional Diversity",
+    "R Programming",
+    "Reproducible Science",
+    "Open Science"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Ecology"
   institution = "Université de Montpellier – Centre d'Écologie Fonctionnelle et Évolutive"
-  year = 2019
+  year = 2020
 
 [[education.courses]]
   course = "MSc in General Biology (minors in Evolutionary Biology, Ecology and Modelling)"
@@ -35,4 +38,4 @@ weight = 5
  
 +++
 
-Currently PhD Candidate at the University of Montpellier. Interested in Biogeography, Open Science and Reproduciblity.
+Currently Post-doc at [iDiv](http://www.idiv.de/sdiv) in Leipzig working with [Marten Winter](https://www.idiv.de/en/groups_and_people/employees/details/64.html). Interested in Macro-ecology, Functional diversity, Open Science and Reproducible Science.

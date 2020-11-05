@@ -52,17 +52,17 @@ enableGitInfo = false
   # AUTHOR SETUP
   # Your details.
   name = "Matthias Grenié"
-  role = "PhD Candidate in Ecology"
+  role = "Postdocral Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Montpellier", url = "https://www.umontpellier.fr" },
-                    { name = "Centre d'Écologie Fonctionnelle et Évolutive – CNRS", url = "https://www.cefe.cnrs.fr/fr/recherche/ef/ecopar/836-doc/3014-matthias-grenie"}]
+  organizations = [ { name = "iDiv", url = "https://www.idiv.de/"},
+                    { name = "University of Leipzig", url = "https://www.uni-leipzig.de/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "matthias.grenie@cefe.cnrs.fr"
-  address = "CEFE-CNRS 1919 route de Mende 34293 Montpellier"
+  email = "matthias.grenie@idiv.de"
+  address = "German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig; Puschstrasse 4;  04103 Leipzig"
   office_hours = ""
   phone = ""
   skype = ""
@@ -259,7 +259,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:matthias.grenie@cefe.cnrs.fr"
+    link = "mailto:matthias.grenie@idiv.de"
 
   [[params.social]]
     icon = "twitter"
