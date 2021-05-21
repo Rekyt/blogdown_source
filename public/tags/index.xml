@@ -22,29 +22,11 @@
     </item>
     
     <item>
-      <title>Deep-learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Predicted presence probabilities</title>
+      <link>/tags/predicted-presence-probabilities/</link>
+      <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
+      <guid>/tags/predicted-presence-probabilities/</guid>
       <description></description>
     </item>
     
@@ -58,11 +40,182 @@
     </item>
     
     <item>
-      <title>Regression</title>
+      <title>Species Richness</title>
+      <link>/tags/species-richness/</link>
+      <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
+      
+      <guid>/tags/species-richness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacked species distribution models (SSDMs)</title>
+      <link>/tags/stacked-species-distribution-models-ssdms/</link>
+      <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
+      
+      <guid>/tags/stacked-species-distribution-models-ssdms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threshold-based prediction</title>
+      <link>/tags/threshold-based-prediction/</link>
+      <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
+      
+      <guid>/tags/threshold-based-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biodiversity facet</title>
+      <link>/tags/biodiversity-facet/</link>
+      <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
+      
+      <guid>/tags/biodiversity-facet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biodiversity-facet</title>
+      <link>/tags/biodiversity-facet/</link>
+      <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
+      
+      <guid>/tags/biodiversity-facet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complexity</title>
+      <link>/tags/complexity/</link>
+      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
+      
+      <guid>/tags/complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coral triangle</title>
+      <link>/tags/coral-triangle/</link>
+      <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
+      
+      <guid>/tags/coral-triangle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evolutionary distinctiveness</title>
+      <link>/tags/evolutionary-distinctiveness/</link>
+      <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
+      
+      <guid>/tags/evolutionary-distinctiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional distinctiveness</title>
+      <link>/tags/functional-distinctiveness/</link>
+      <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
+      
+      <guid>/tags/functional-distinctiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional ecology</title>
+      <link>/tags/functional-ecology/</link>
+      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
+      
+      <guid>/tags/functional-ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional rarity</title>
+      <link>/tags/functional-rarity/</link>
+      <pubDate>Thu, 08 Oct 2020 13:06:56 +0100</pubDate>
+      
+      <guid>/tags/functional-rarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional-diversity</title>
+      <link>/tags/functional-diversity/</link>
+      <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
+      
+      <guid>/tags/functional-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funrar</title>
+      <link>/tags/funrar/</link>
+      <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
+      
+      <guid>/tags/funrar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>habitat saturation</title>
+      <link>/tags/habitat-saturation/</link>
+      <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
+      
+      <guid>/tags/habitat-saturation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hypervolume</title>
+      <link>/tags/hypervolume/</link>
+      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
+      
+      <guid>/tags/hypervolume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rarity</title>
+      <link>/tags/rarity/</link>
+      <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
+      
+      <guid>/tags/rarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
       <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>species clustering</title>
+      <link>/tags/species-clustering/</link>
+      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
+      
+      <guid>/tags/species-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>species uniqueness</title>
+      <link>/tags/species-uniqueness/</link>
+      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
+      
+      <guid>/tags/species-uniqueness/</guid>
       <description></description>
     </item>
     

@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+    <url>
+    
+      <loc>/publication/trait-spaces-dimensionality/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/global_mammals_birds/</loc>
+      <lastmod>2020-10-08T13:06:56+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/richness_saturation/</loc>
+      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/bird_diet/</loc>
+      <lastmod>2018-12-22T20:52:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/gaspar/</loc>
+      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/species-richness-unicorns-bes-macro-2018/</loc>
+      <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/functional-rarity/</loc>
+      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
@@ -11,6 +66,45 @@
     
   
     
+    <url>
+    
+      <loc>/publication/europe_orchids/</loc>
+      <lastmod>2018-05-29T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/response_carmona/</loc>
+      <lastmod>2017-12-26T13:06:56+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/funrar/</loc>
+      <lastmod>2017-12-26T12:11:41+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/ecolottery/</loc>
+      <lastmod>2017-10-17T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/functional-rarity-ynhm-2017/</loc>
+      <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
@@ -20,16 +114,6 @@
     
   
     
-    
-    <url>
-    
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
     <url>
     
       <loc>/post/</loc>
@@ -37,7 +121,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -47,7 +130,6 @@
     
   
     
-    
     <url>
     
       <loc>/talk/</loc>
@@ -55,25 +137,6 @@
     </url>
     
   
-    
-    
-    <url>
-    
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
     
     <url>
     
@@ -83,16 +146,6 @@
     
   
     
-    
-    <url>
-    
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
     <url>
     
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
@@ -101,35 +154,14 @@
     
   
     
-    
-    <url>
-    
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
       <priority>0</priority>
     </url>
     
   
-    
     
     <url>
     
@@ -138,27 +170,6 @@
     </url>
     
   
-    
-    
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
     
     <url>
     
@@ -169,36 +180,32 @@
     
   
     
-    
     <url>
     
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/predicted-presence-probabilities/</loc>
+      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
       <priority>0</priority>
     </url>
     
   
-    
     
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
       <priority>0</priority>
     </url>
     
   
-    
     
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
       <priority>0</priority>
     </url>
     
   
-    
     
     <url>
     
@@ -209,7 +216,6 @@
     
   
     
-    
     <url>
     
       <loc>/tags/r-markdown/</loc>
@@ -219,6 +225,167 @@
     
   
     
+    <url>
+    
+      <loc>/tags/species-richness/</loc>
+      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/stacked-species-distribution-models-ssdms/</loc>
+      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/threshold-based-prediction/</loc>
+      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/biodiversity-facet/</loc>
+      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/biodiversity-facet/</loc>
+      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/complexity/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/coral-triangle/</loc>
+      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/evolutionary-distinctiveness/</loc>
+      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/functional-distinctiveness/</loc>
+      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/functional-ecology/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/functional-rarity/</loc>
+      <lastmod>2020-10-08T13:06:56+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/functional-diversity/</loc>
+      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/funrar/</loc>
+      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/habitat-saturation/</loc>
+      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/hypervolume/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/plot/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/rarity/</loc>
+      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
@@ -229,11 +396,19 @@
     
   
     
+    <url>
+    
+      <loc>/tags/species-clustering/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
-      <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>/tags/species-uniqueness/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
       <priority>0</priority>
     </url>
     
