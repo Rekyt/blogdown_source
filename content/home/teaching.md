@@ -17,10 +17,14 @@ weight = 60
 
 I am a certified Instructor for [The Carpentries](https://carpentries.org/), focusing on **R programming** (especially for ecology) and **Data Visualization**.
 
-I also taught the following courses at the University of Montpellier:
+Course name                                                                                                             | Level                        | Description
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Practical session in Descriptive Statistics with R (UM)                                                                 | 2nd year Bachelor's students | 25h (2017-2018 and 2018-2019)
+Practical session in Functional Biogeography with R (UM)                                                                | 2nd year Master's students   | 4h (2018-2019 and 2019-2020)
+Guest Lecture on Biodiversity Facets (UL)                                                                               | 1st year Master's students   | 2h (2020-2021)
+Practical session on Biodiversity Facets with R (UL, [material](https://rekyt.github.io/biodiversity_facets_tutorial/)) | 1st year Master's students   | 6h (2020-2021)
+Group project on Biodiversity Facets (UL)                                                                               | 1st year Master's students   | (~6h) (2020-2021)
 
-- HLMA314 Practicals in Descriptive Statistics for Ecology 2017-2018,
-- HLBE405 Practical project in Functional Ecology,
-- HLMA314 Practicals in Descriptive Statistics for Ecology 2018-2019.
+UM: University of Montpellier; UL: University of Leipzig
 
-I also found the R User Group of our lab and organize regular meetups for the group.
+I also founded the R User Group at the Center for Functional and Evolutionary Ecology in Montpellier. There, I organized regular 1h meet-ups on various R topics (plotting with `ggplot2`, mapping with `sf`, project organization with RStudio, workflow organization with `drake`, parallelization with `future`).
