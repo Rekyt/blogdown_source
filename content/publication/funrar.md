@@ -36,11 +36,11 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["functional-rarity"]
+projects = ["functional-rarity", "tools-for-biodiversity-science"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["functional rarity"]
+tags = []
 
 # Links (optional).
 url_pdf = "https://www.researchgate.net/profile/Francois_Munoz/publication/318760699_funrar_An_R_package_to_characterize_functional_rarity/links/59b65b6aa6fdcc3f88993056/funrar-An-R-package-to-characterize-functional-rarity.pdf"

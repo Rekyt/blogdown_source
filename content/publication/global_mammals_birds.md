@@ -39,11 +39,11 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["functional-rarity"]
+projects = ["macroecology", "functional-diversity", "funcitonal-rarity"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["functional rarity"]
+tags = []
 
 # Links (optional).
 url_pdf = ""

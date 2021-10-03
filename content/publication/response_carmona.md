@@ -41,7 +41,7 @@ projects = ["functional-rarity"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["functional rarity"]
+tags = []
 
 # Links (optional).
 url_pdf = "http://nicolasmouquet.free.fr/publications/Violle_et_al_2017_TREEb.pdf"

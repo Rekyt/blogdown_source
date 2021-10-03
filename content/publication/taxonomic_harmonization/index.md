@@ -35,7 +35,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["tools-for-biodiversity-science", "macroecology"]
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -65,7 +65,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.32942/osf.io/e3qnz"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

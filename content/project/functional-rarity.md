@@ -30,5 +30,8 @@ caption = ""
 
 +++
 
-Functional rarity is a concept developed by Violle et al. (2017). One aim of my PhD is to develop and test this concept.
+Functional rarity also called functional originality or trait originality is the characteristic of species (or any other biological unit) that makes it different relative to a well defined set.
+
+Why are original species interesting? Original species can provide: irreplaceable trait, meaning that original species disappear no other species are going to present the same trait values in the set; original specis may also represent original ecological strategies, if the trait space represents the niche space well then original species show original strategies; finally original species can help uncover specific community assembly processes, or combination of processes because they are not well predicted nor accounted for by current theories.
+
 Through the [Functional Rarity in Ecology and Evolution](http://www.cesab.org/index.php/en/projets-en-cours/projets-2015) synthesis group funded by the CESAB, we discuss and test new ideas regarding functional rarity.

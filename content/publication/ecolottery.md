@@ -50,7 +50,7 @@ tags = []
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["tools-for-biodiversity-science"]
 
 # Links (optional)
 url_pdf = "https://www.researchgate.net/profile/Francois_Munoz/publication/318635375_ecolottery_Simulating_and_assessing_community_assembly_with_environmental_filtering_and_neutral_dynamics_in_R/links/5a12b2d3a6fdccc2d79b8617/ecolottery-Simulating-and-assessing-community-assembly-with-environmental-filtering-and-neutral-dynamics-in-R.pdf"
