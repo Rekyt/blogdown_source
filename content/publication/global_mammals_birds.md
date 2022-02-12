@@ -23,7 +23,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Nature Communications"
-publication_short = "Nature Comms"
+publication_short = "Nature Communications"
 
 # Abstract and optional shortened version.
 abstract = "Identifying species that are both geographically restricted and functionally distinct, i.e. supporting rare traits and functions, is of prime importance given their risk of extinction and their potential contribution to ecosystem functioning. We use global species distributions and functional traits for birds and mammals to identify the ecologically rare species, understand their characteristics, and identify hotspots. We find that ecologically rare species are disproportionately represented in IUCN threatened categories, insufficiently covered by protected areas, and for some of them sensitive to current and future threats. While they are more abundant overall in countries with a low human development index, some countries with high human development index are also hotspots of ecological rarity, suggesting transboundary responsibility for their conservation. Altogether, these results state that more conservation emphasis should be given to ecological rarity given future environmental conditions and the need to sustain multiple ecosystem processes in the long-term."

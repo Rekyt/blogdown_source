@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Journal of Ecology"
-publication_short = "J. Ecol."
+publication_short = "Journal of Ecology"
 
 # Abstract and optional shortened version.
 abstract = """

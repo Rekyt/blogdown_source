@@ -8,6 +8,9 @@ draft = false
 tags = []
 categories = []
 
+summary = "Large-scale study of biodiversity to achieve generalization"
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]

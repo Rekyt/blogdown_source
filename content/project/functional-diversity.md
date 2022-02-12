@@ -8,6 +8,9 @@ draft = false
 tags = []
 categories = []
 
+summary = "Studying the distribution of species attribute diversity"
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]

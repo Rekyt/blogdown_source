@@ -8,6 +8,8 @@ draft = false
 tags = ["R packages", "Open Science", "Reproducible Science"]
 categories = []
 
+summary = "Create and contribute to new tools to advance biodiversity science"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]

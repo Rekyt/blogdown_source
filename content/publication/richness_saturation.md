@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Ecological Indicators"
-publication_short = "Ecol. Ind."
+publication_short = "Ecological Indicators"
 
 # Abstract and optional shortened version.
 abstract = """

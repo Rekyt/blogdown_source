@@ -21,7 +21,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Trends in Ecology and Evolution"
-publication_short = "TREE"
+publication_short = "Trends in Ecology and Evolution"
 
 # Abstract and optional shortened version.
 abstract = ""

@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Biological Conservation"
-publication_short = "Biol. Cons."
+publication_short = "Biological Conservation"
 
 # Abstract and optional shortened version.
 abstract = """

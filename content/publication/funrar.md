@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Diversity and Distributions"
-publication_short = "Div. Dist."
+publication_short = "Diversity and Distributions"
 
 # Abstract and optional shortened version.
 abstract = "Emphasis has been put in recent ecological research on investigating phylogenetic, functional and taxonomic facets of biological diversity. While a flourishing number of indices have been proposed for assessing functional diversity, surprisingly few options are available to characterize functional rarity. Functional rarity can play a key role in community and ecosystem dynamics. We introduce here the funrar R package to quantify functional rarity based on species trait differences and species frequencies at local and regional scales. Because of the increasing availability of big datasets in macroecology and biogeography, we optimized funrar to work with large datasets of thousands of species and sites. We illustrate the use of the package to investigate the functional rarity of North and Central American mammals."
