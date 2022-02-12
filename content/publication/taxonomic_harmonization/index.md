@@ -62,7 +62,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Shiny Application", url = "https://mgrenie.shinyapps.io/taxharmonizexplorer/"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1111/2041-210X.13802"
