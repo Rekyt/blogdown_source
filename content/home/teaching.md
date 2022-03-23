@@ -17,13 +17,14 @@ weight = 60
 
 I gave more than 80 hours of courses at the different universities I've worked in:
 
-Course name                                                                                                             | Level                    | Total time
-------------------------------------------------------------------------------------------------------------------------| ------------------------ | ----------------------------
-Practical session in Descriptive Statistics with R (UM)                                                                 | Bachelor's<br />(2nd yr) | 50h (2017-2018 and 2018-2019)
-Practical session in Functional Biogeography with R (UM)                                                                | Master's<br />(2nd yr)   | 8h (2018-2019 and 2019-2020)
-Guest Lecture on Biodiversity Facets (UL)                                                                               | Master's<br />(1st year) | 2h (2020-2021)
-Practical session on Biodiversity Facets with R (UL, [material](https://rekyt.github.io/biodiversity_facets_tutorial/)) | Master's<br />(1st year) | 6h (2020-2021)
-Group project on Biodiversity Facets (UL)                                                                               | Master's<br />(1st year) | 20h (2020-2021)
+Course name                                                                                                             | Level                           | Total time
+------------------------------------------------------------------------------------------------------------------------| ------------------------------- | ----------
+Practical session in Descriptive Statistics with R (UM)                                                                 | Bachelor's<br />(2nd yr)        | 50h
+Practical session in Functional Biogeography with R (UM)                                                                | Master's<br />(2nd yr)          | 8h 
+Guest Lecture on Biodiversity Facets (UL)                                                                               | Master's<br />(1st yr)          | 2h 
+Practical session on Biodiversity Facets with R (UL, [material](https://rekyt.github.io/biodiversity_facets_tutorial/)) | Master's<br />(1st yr)          | 6h 
+Group project on Biodiversity Facets (UL)                                                                               | Master's<br />(1st yr)          | 20h
+Introduction to git and GitHub, (UL/iDiv, [material](https://emilio-berti.github.io/idiv-git-introduction))             | PhD students<br /> and postdocs | 10h               
 
 UM: University of Montpellier; UL: University of Leipzig
 
