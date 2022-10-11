@@ -38,4 +38,4 @@ weight = 5
  
 +++
 
-Currently Post-doctoral Researcher at [iDiv](http://www.idiv.de/sdiv) in Leipzig working with [Marten Winter](https://www.idiv.de/en/groups_and_people/employees/details/64.html). Interested in, among others things, Macroecology, Functional diversity, Open and Reproducible Science. These days studying the distribution of exotic plant species.
+Currently Post-doctoral Researcher at [iDiv](http://www.idiv.de/sdiv) in Leipzig working with [Marten Winter](https://www.idiv.de/en/groups_and_people/employees/details/64.html). Interested in, among others things, Macroecology, Functional diversity, Open and Reproducible Science. These days studying the distribution of exotic plant species. You can read [my updated CV](https://github.com/Rekyt/new_cv/raw/main/cv_en.pdf).
