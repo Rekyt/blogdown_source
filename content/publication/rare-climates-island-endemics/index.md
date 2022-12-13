@@ -1,6 +1,6 @@
 +++
-title = "Harmonizing taxon names in biodiversity data: a review of tools, databases, and best practices"
-date = 2021-09-06T10:49:07+02:00
+title = "Links to rare climates do not translate into distinct traits for island endemics"
+date = 2022-12-13T10:49:07+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
