@@ -60,6 +60,8 @@ url_custom = [
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
+doi = "10.32942/osf.io/dg7hw"
+
 # Does this page contain LaTeX math? (true/false)
 math = false
 
