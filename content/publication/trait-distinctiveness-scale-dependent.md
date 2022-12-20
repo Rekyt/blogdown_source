@@ -47,7 +47,7 @@ tags = []
 url_pdf = ""
 url_preprint = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://doi.org/10.5061/dryad.9s4mw6mm3"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -57,6 +57,8 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+doi = "10.1111/ecog.06504"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
