@@ -42,8 +42,8 @@ projects = ["functional-rarity", "tools-for-biodiversity-science"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.32942/osf.io/dg7hw"
-url_preprint = "https://ecoevorxiv.org/dg7hw/"
+url_pdf = "https://doi.org/10.1111/ecog.06585"
+url_preprint = "https://doi.org/10.32942/osf.io/dg7hw/"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -60,7 +60,7 @@ url_custom = [
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
-doi = "10.32942/osf.io/dg7hw"
+doi = "10.1111/ecog.06585"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
