@@ -1,6 +1,6 @@
 +++
 title = "fundiversity: a modular R package to compute functional diversity indices"
-date = 2022-10-11T17:31:40+02:00
+date = 2022-12-29T17:31:40+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
