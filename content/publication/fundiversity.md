@@ -19,10 +19,19 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Ecography"
-publication_short = "Ecography Accepted"
+publication_short = "Ecography"
 
 # Abstract and optional shortened version.
-abstract = "1. Functional diversity is widely used and widespread. However, the main package used to compute functional diversity indices FD is not flexible and not adapted to the volume of data used in modern ecological analyses. 2. We here present fundiversity, an R package that eases the computation of classical functional diversity indices. It leverages parallelization and memoization (caching results in memory) to maximize efficiency with data with thousands of columns and rows. 3. In addition to being more flexible we did a performance comparison with packages that provide analog functions. fundiversity was always an order of magnitude quicker than alternative packages. 4. fundiversity aims to be a lightweight efficient tool to compute functional diversity indices, that can be used in a variety of contexts. Because it has been designed following clear principles, it is easy to extend. We hope the wider community will adopt it and we welcome all contributions."
+abstract = """
+
+1. Functional diversity is widely used and widespread. However, the main package used to compute functional diversity indices FD is not flexible and not adapted to the volume of data used in modern ecological analyses.
+
+2. We here present fundiversity, an R package that eases the computation of classical functional diversity indices. It leverages parallelization and memoization (caching results in memory) to maximize efficiency with data with thousands of columns and rows.
+
+3. In addition to being more flexible we did a performance comparison with packages that provide analog functions. fundiversity was always an order of magnitude quicker than alternative packages.
+
+4. fundiversity aims to be a lightweight efficient tool to compute functional diversity indices, that can be used in a variety of contexts. Because it has been designed following clear principles, it is easy to extend. We hope the wider community will adopt it and we welcome all contributions.
+"""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -35,7 +44,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["functional-rarity", "tools-for-biodiversity-science"]
+projects = ["functional-diversity", "tools-for-biodiversity-science"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -44,7 +53,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://doi.org/10.1111/ecog.06585"
 url_preprint = "https://doi.org/10.32942/osf.io/dg7hw/"
-url_code = ""
+url_code = "https://github.com/funecology/fundiversity"
 url_dataset = ""
 url_project = ""
 url_slides = ""

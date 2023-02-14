@@ -50,10 +50,10 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.14169"
 url_preprint = ""
-url_code = ""
-url_dataset = ""
+url_code = "https://doi.org/10.6084/m9.figshare.21893133"
+url_dataset = "https://doi.org/10.6084/m9.figshare.21893133"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -62,10 +62,9 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Shiny Application", url = "https://mgrenie.shinyapps.io/taxharmonizexplorer/"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1111/ele.14169"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
