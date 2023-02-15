@@ -269,7 +269,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "mastodon"
     icon_pack = "fab"
-    link = "//pouet.chapril.org/@LeNematode"
+    link = "//ecoevo.social/@LeNematode"
 
   [[params.social]]
     icon = "google-scholar"
