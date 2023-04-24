@@ -1,6 +1,6 @@
 +++
 title = "The ecological causes of functional distinctiveness in communities"
-date = 2022-10-11T17:32:05+02:00
+date = 2023-04-21T17:32:05+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -25,8 +25,8 @@ authors = [
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
-publication_short = "Submitted"
+publication = "Ecology Letters"
+publication_short = "Ecol. Lett."
 
 # Abstract and optional shortened version.
 abstract = "Although how rare species persist in communities is a major ecological question, the critical phenotypic dimension of rarity is broadly overlooked. Recent work has shown that evaluating functional distinctiveness, the average trait distance of a species to other species in a community, offers essential insights into biodiversity dynamics, ecosystem functioning, and biological conservation. However, the ecological mechanisms underlying the persistence of functionally distinct species are poorly understood. Here we propose a heterogeneous fitness landscape framework, whereby functional dimensions encompass peaks representing trait combinations that yield positive intrinsic growth rates in a community. We identify four fundamental causes leading to the persistence of functionally distinct species in a community. First, environmental heterogeneity or alternative phenotypic designs can drive positive population growth of functionally distinct species. Second, sink populations with negative growth can deviate from local fitness peaks and be functionally distinct. Third, species found at the margin of the fitness landscape can persist but be functionally distinct. Fourth, biotic interactions (either positive or negative) can dynamically alter the fitness landscape. We offer examples of these four cases and some guidelines to distinguish among them. In addition to these deterministic processes, we also explore how stochastic dispersal limitation can yield functional distinctiveness."
