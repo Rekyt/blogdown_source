@@ -50,10 +50,10 @@ projects = ["tools-for-biodiversity-science", "macroecology"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.18961"
 url_preprint = ""
-url_code = ""
-url_dataset = ""
+url_code = "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18961#nph18961-sec-0002"
+url_dataset = "http://sftp.kew.org/pub/data-repositories/WCVP/"
 url_project = ""
 url_slides = ""
 url_video = ""
