@@ -38,4 +38,4 @@ weight = 5
  
 +++
 
-Currently Post-doctoral Researcher at [iDiv](http://www.idiv.de/sdiv) in Leipzig working with [Marten Winter](https://www.idiv.de/en/groups_and_people/employees/details/64.html). Interested in, among others things, Macroecology, Functional diversity, Open and Reproducible Science. These days studying the distribution of exotic plant species. You can read [my updated CV](https://github.com/Rekyt/new_cv/raw/main/cv_en.pdf).
+Assistant Professor at the [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr) and working at [Alpine Ecology Lab (LECA)](https://leca.osug.fr) in [Grenoble, France](https://osm.org/go/0CASBSo?relation=80348) in the beautiful French Alps. Interested in, among others things, Macroecology, Functional diversity, Open and Reproducible Science. These days studying the distribution of medicinal plant species. Refer to [my updated CV](https://github.com/Rekyt/new_cv/raw/main/cv_en.pdf) for full details.

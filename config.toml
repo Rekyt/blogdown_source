@@ -52,17 +52,17 @@ enableGitInfo = false
   # AUTHOR SETUP
   # Your details.
   name = "Matthias Grenié"
-  role = "Postdoctoral Researcher"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "iDiv", url = "https://www.idiv.de/"},
-                    { name = "University of Leipzig", url = "https://www.uni-leipzig.de/" }]
+  organizations = [ { name = "Université Grenoble Alpes", url = "https://www.univ-grenoble-alpes.fr/"},
+                    { name = "Laboratoire d'Écologie Alpine (LECA)", url = "https://leca.osug.fr/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "matthias.grenie@idiv.de"
-  address = "German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig; Puschstrasse 4;  04103 Leipzig"
+  email = "matthias.grenie@univ-grenoble-alpes.fr"
+  address = "LECA UMR UGA-USMB-CNRS 5553, Domaine Universitaire de Grenoble, Bat Biologie D, 2233 Rue de la Piscine, Saint-Martin d’Hères"
   office_hours = ""
   phone = ""
   skype = ""
@@ -259,7 +259,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:matthias.grenie@idiv.de"
+    link = "mailto:matthias.grenie@univ-grenoble-alpes.fr"
 
   [[params.social]]
     icon = "twitter"
