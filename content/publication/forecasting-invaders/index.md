@@ -57,7 +57,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
-doi = " 10.1111/gcb.17399"
+doi = "10.1111/gcb.17399"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
