@@ -1,6 +1,6 @@
 +++
 title = "Bridging Macroecology and Temporal Dynamics to Better Attribute Global Change Impacts on Biodiversity"
-date = 2025-05-07T15:30:00+02:00
+date = 2025-07-12T15:30:00+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`
