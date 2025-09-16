@@ -1,6 +1,6 @@
 +++
 title = "Gaps in global alien plant trait data and how to fill them"
-date = 2025-09-16T10:00:00+02:00
+date = 2025-09-16T08:30:00+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
