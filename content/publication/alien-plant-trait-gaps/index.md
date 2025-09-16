@@ -1,6 +1,6 @@
 +++
 title = "Gaps in global alien plant trait data and how to fill them"
-date = 2024-10-21T10:00:40+02:00
+date = 2025-09-16T10:00:00+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["**Matthias Grenié**", "Helge Bruelheide", "Wayne Dawson", "Franz Es
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "EcoEvoRxiv (submitted)"
+publication = "Global Ecology and Biogeography (accepted)"
 
 # Abstract and optional shortened version.
 abstract = """
