@@ -1,6 +1,6 @@
 +++
 title = "Advancing Causal Inference in Ecology: pathways for biodiversity change detection and attribution"
-date = 2025-07-18T08:30:00+02:00
+date = 2025-09-04T08:30:00+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`
@@ -42,7 +42,7 @@ projects = ["macroecology", "tools-for-biodiversity-science"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://www."
+url_pdf = "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.70131"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -56,7 +56,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
-doi = "10.1111/2041-211"
+doi = "10.1111/2041-210X.70131"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
