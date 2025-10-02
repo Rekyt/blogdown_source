@@ -18,7 +18,7 @@ authors = ["**Matthias Grenié**", "Helge Bruelheide", "Wayne Dawson", "Franz Es
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Global Ecology and Biogeography (accepted)"
+publication = "Global Ecology and Biogeography"
 
 # Abstract and optional shortened version.
 abstract = """
@@ -43,7 +43,7 @@ projects = ["macroecology", "functional-diversity", "tools-for-biodiversity-scie
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://onlinelibrary.wiley.com/doi/pdf/10.1111/geb.70131"
 url_preprint = "https://doi.org/10.32942/X2FH0T"
 url_code = "https://github.com/Rekyt/alientraitgaps"
 url_dataset = "https://doi.org/10.5281/zenodo.13940200"
